@@ -13,7 +13,7 @@
                     </div>
                     <div class="ms-3">
                         <h5>Office Address</h5>
-                        <span>123 Street, New York, USA</span>
+                        <span>Mizoram University , Information Technology, tanhril </span>
                     </div>
                 </div>
                 <hr>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="ms-3">
                         <h5>Office Time</h5>
-                        <span>Mon-Sat 09am-5pm, Sun Closed</span>
+                        <span>Mon-Fri 09am-5pm IST</span>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                             <label for="mobile">Your Mobile</label>
                         </div>
                     </div>
-                    <div class="col-sm-6">
+                    <!-- <div class="col-sm-6">
                         <div class="form-floating">
                             <select class="form-select" id="service">
                                 <option selected>Pathology Testing</option>
@@ -58,7 +58,7 @@
                             </select>
                             <label for="service">Choose A Service</label>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-12">
                         <div class="form-floating">
                             <textarea class="form-control" placeholder="Leave a message here" id="message"

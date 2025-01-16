@@ -3,16 +3,16 @@
     <div class="container-fluid container-service py-5" id="#service">
         <div class="container pt-5">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h1 class="display-6 mb-3">Reliable & High-Quality Laboratory Service</h1>
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor.</p>
+                <h1 class="display-6 mb-3">Discover Reliable & Well-Organized Categories</h1>
+                <p class="mb-5">Explore Job Opportunities and Skilled Workers in Well-Organized Categories for a Perfect Match.</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-heart-pulse text-dark"></i>
+                            <i class="fa-solid fa-person-digging text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Pathology Testing</h4>
+                        <h4 class="mb-3">Mistiri</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -20,9 +20,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-lungs text-dark"></i>
+                            <i class="fa-solid fa-trowel text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Microbiology Tests</h4>
+                        <h4 class="mb-3">Labour</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -30,9 +30,10 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-virus text-dark"></i>
+                            <i class="fa-solid fa-hammer text-dark"></i>
+
                         </div>
-                        <h4 class="mb-3">Biochemistry Tests</h4>
+                        <h4 class="mb-3">Carpenter</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -40,9 +41,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-capsule-pill text-dark"></i>
+                            <i class="fa-solid fa-person-dress text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Histopatology Tests</h4>
+                        <h4 class="mb-3">Maid</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -50,9 +51,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-capsule text-dark"></i>
+                            <i class="fa-solid fa-utensils text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Urine Tests</h4>
+                        <h4 class="mb-3">Cook</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -62,7 +63,7 @@
                         <div class="icon-box-primary mb-4">
                             <i class="bi bi-prescription2 text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Blood Tests</h4>
+                        <h4 class="mb-3">Plumber</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -70,9 +71,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-clipboard2-pulse text-dark"></i>
+                            <i class="fa-solid fa-plug text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Fever Tests</h4>
+                        <h4 class="mb-3">Electrician</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>
@@ -80,9 +81,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item">
                         <div class="icon-box-primary mb-4">
-                            <i class="bi bi-file-medical text-dark"></i>
+                            <i class="fa-solid fa-paint-roller text-dark"></i>
                         </div>
-                        <h4 class="mb-3">Allergy Tests</h4>
+                        <h4 class="mb-3">Painter</h4>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue.</p>
                         <a class="btn btn-light px-3" href="">Read More<i class="bi bi-chevron-double-right ms-1"></i></a>
                     </div>

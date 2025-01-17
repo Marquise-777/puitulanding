@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center text-md-start">
-                <p class="mb-0">&copy; <a href="#">Your Site Name</a>. All Rights Reserved.</p>
+                <p class="mb-0">&copy; <a href="#">PuituTech</a>. All Rights Reserved.</p>
             </div>
         </div>
     </div>

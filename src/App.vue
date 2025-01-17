@@ -25,12 +25,12 @@ import BacktoTop from './components/BacktoTop.vue';
     <Carousel />
     <About />
     <Feature />
-    <Features />
+    <!-- <Features /> -->
     <Video />
     <Service />
-    <Appointment />
     <Teams />
-    <Testimonial />
+    <!-- <Testimonial /> -->
+    <Appointment />
     <Footer />
     <Copyright />
     <BacktoTop />

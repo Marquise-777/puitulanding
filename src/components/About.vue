@@ -6,21 +6,21 @@
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="row g-0">
                     <div class="col-6">
-                        <img class="img-fluid" src="/img/about-1.jpg">
+                        <img class="img-fluid" src="/img/workshop.jpg">
                     </div>
                     <div class="col-6">
-                        <img class="img-fluid" src="/img/about-2.jpg">
+                        <img class="img-fluid" src="/img/w3.jpg">
                     </div>
                     <div class="col-6">
-                        <img class="img-fluid" src="/img/about-3.jpg">
+                        <img class="img-fluid" src="/img/w4.jpg">
                     </div>
                     <div class="col-6">
                         <div class="bg-primary w-100 h-100 mt-n5 ms-n5 d-flex flex-column align-items-center justify-content-center">
-                            <div class="icon-box-light">
+                            <!-- <div class="icon-box-light">
                                 <i class="bi bi-award text-dark"></i>
-                            </div>
-                            <!-- <h1 class="display-1 text-white mb-0" data-toggle="counter-up">25</h1>
-                            <small class="fs-5 text-white">Years Experience</small> -->
+                            </div> -->
+                            <h1 class="display-1 text-white mb-0" data-toggle="counter-up"><i class="fa-solid fa-infinity"></i></h1>
+                            <small class="fs-5 text-white">Growing Talent, Building Futures</small>
                         </div>
                     </div>
                 </div>

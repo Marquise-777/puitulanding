@@ -8,7 +8,7 @@
                     <i class="bi bi-telephone-inbound fs-2"></i>
                     <div class="ms-3">
                         <h5 class="text-white mb-0">Call Now</h5>
-                        <span>+012 345 6789</span>
+                        <span>+9436157462</span>
                     </div>
                 </div>
                 <a href="index.html" class="h1 text-white mb-0">Puitu<span class="text-dark">Tech</span></a>
@@ -16,7 +16,7 @@
                     <i class="bi bi-envelope fs-2"></i>
                     <div class="ms-3">
                         <h5 class="text-white mb-0">Mail Now</h5>
-                        <span>info@example.com</span>
+                        <span>smarttaskit24@gmail.com</span>
                     </div>
                 </div>
             </div>
